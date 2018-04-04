@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Swarmer",
+  "description": "This extension will provide easy access to the betray button.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
